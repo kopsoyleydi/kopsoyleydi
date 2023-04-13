@@ -4,5 +4,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopsoyleydi&show_icons=true&theme=transparent)
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Java](https://img.shields.io/badge/Java-2CA5E0?style=for-the-badge&logo=java&logoColor=white)

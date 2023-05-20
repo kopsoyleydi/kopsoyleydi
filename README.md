@@ -4,4 +4,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kopsoyleydi&show_icons=true&theme=transparent)
 
-JAVA EE
+JAVA EE, Spring, Spring Boot, Git, HTML, CSS, JavaScript, Java Core, MySql, Spring Data, Spring MVC.

@@ -4,7 +4,7 @@
 - :seedling: Learning deep development in Java.
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles about Spring and Java.
--  :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/kopsoyleydi))
+-  :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kopsoyleydi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kopsoyleydi)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Java+Back-End+Developer+)](https://git.io/typing-svg)
 

@@ -31,6 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+<br>
 
 ![Codewars](https://github.r2v.ch/codewars?user=kopsoyleydi&top_languages=true)
 

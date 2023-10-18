@@ -3,6 +3,8 @@
 
 - :seedling: Learning deep development in Java.
 
+- :seedling: My web cv for you: https://kopsoyleydi.github.io/ .
+
 - :zap: In my free time, I solve problems on CodeWars and LeetCode and read tech articles about Spring and Java.
 -  :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kopsoyleydi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kopsoyleydi)
 

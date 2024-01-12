@@ -1,7 +1,7 @@
 ### Hi there 👋
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications and services.
 
-- :seedling: Learning deep development in Java.
+- :seedling: Learning deep development in Java :)
 
 - [x]  My web cv for you: https://kopsoyleydi.github.io/ .
 
